@@ -20,3 +20,13 @@ This project contains the source code and documentation for my stock market anal
 * Excel functions and formulas used for data analysis.
 * Data visualization charts and graphs.
 * README file providing an overview of the project and instructions for usage.
+
+# Usage:
+
+* Clone the repository to your local machine.
+* Import the CSV files to explore the analysis and charts.
+* Review the documentation for detailed insights and findings.
+
+# Contributions:
+
+Contributions, suggestions, and feedback are welcome. Feel free to open issues or create pull requests.
